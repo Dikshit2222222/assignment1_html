@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+pre {
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 70%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.a {
+    color: blue;
+}
+
+.b {
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+}
